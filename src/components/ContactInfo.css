@@ -1,0 +1,76 @@
+.contactinfo-section {
+  padding: 5rem 1rem;
+  background: linear-gradient(135deg, #74ebd5, #9face6);
+  color: #fff;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 3rem;
+  color: #222;
+}
+
+.contactinfo-cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.contact-card {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 2rem;
+  border-radius: 20px;
+  backdrop-filter: blur(12px);
+  text-align: center;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+  min-width: 200px;
+  transition: transform 0.3s ease;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;   /* ✅ Stack vertically */
+  align-items: center;      /* ✅ Center horizontally */
+  justify-content: center;  /* ✅ Center vertically */
+  gap: 0.8rem;              /* ✅ Space between icon and label */
+}
+
+.contact-card:hover {
+  transform: scale(1.05);
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.contact-card svg {
+  font-size: 2rem;
+  color: #fff;
+  transition: transform 0.3s ease;
+}
+
+.contact-card p,
+.contact-card a {
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none; /* ✅ No underline on text and links */
+}
+.contact-card:hover svg {
+  transform: scale(1.2);
+}
+.contact-card span {
+  color: #fff;            /* Override that nasty blue */
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.contact-card:hover span {
+  color: #ffffff;         /* Optional hover pop ✨ */
+}
+.contact-card p,
+.contact-card a {
+  color: #fff;
+ 
+}

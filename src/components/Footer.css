@@ -1,0 +1,33 @@
+.footer {
+  padding: 2rem 1rem;
+  background: #1f1f1f;
+  color: #eee;
+  text-align: center;
+  font-size: 1rem;
+  border-top: 1px solid #444;
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: auto;
+}
+
+.footer-tagline {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: #bbb;
+  font-style: italic;
+}
+
+.footer-name {
+  color: #f9f871;
+  font-weight: bold;
+}
+
+/* Optional spicy line */
+.footer-extra {
+  margin-top: 0.3rem;
+  color: #ccc;
+  font-size: 0.85rem;
+}

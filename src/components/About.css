@@ -1,0 +1,30 @@
+.about {
+    padding: 4rem 2rem;
+    background: linear-gradient(to right, #141e30, #243b55);
+    color: #fff;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    height: 550px;
+  }
+  
+  .section-title {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #00ffe0;
+  }
+  
+  .about-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-text span {
+    color: #ff9f1c;
+    font-weight: bold;
+  }
+  
