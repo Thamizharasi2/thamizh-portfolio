@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thamizh-portfolio/static/css/main.3fadd754.css",
+    "main.js": "/thamizh-portfolio/static/js/main.a65183d6.js",
+    "index.html": "/thamizh-portfolio/index.html",
+    "main.3fadd754.css.map": "/thamizh-portfolio/static/css/main.3fadd754.css.map",
+    "main.a65183d6.js.map": "/thamizh-portfolio/static/js/main.a65183d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fadd754.css",
+    "static/js/main.a65183d6.js"
+  ]
+}
