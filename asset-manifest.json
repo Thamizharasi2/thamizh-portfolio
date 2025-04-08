@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/thamizh-portfolio/static/css/main.3fadd754.css",
-    "main.js": "/thamizh-portfolio/static/js/main.71331258.js",
+    "main.js": "/thamizh-portfolio/static/js/main.44944198.js",
     "index.html": "/thamizh-portfolio/index.html",
     "main.3fadd754.css.map": "/thamizh-portfolio/static/css/main.3fadd754.css.map",
-    "main.71331258.js.map": "/thamizh-portfolio/static/js/main.71331258.js.map"
+    "main.44944198.js.map": "/thamizh-portfolio/static/js/main.44944198.js.map"
   },
   "entrypoints": [
     "static/css/main.3fadd754.css",
-    "static/js/main.71331258.js"
+    "static/js/main.44944198.js"
   ]
 }
