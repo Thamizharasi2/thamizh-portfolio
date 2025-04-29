@@ -2,7 +2,7 @@
   "name": "thamizh-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Thamizharasi2.github.io/Thamizharasi-Portfolio",
+  "homepage": "https://thamizharasi2.github.io/thamizh-portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

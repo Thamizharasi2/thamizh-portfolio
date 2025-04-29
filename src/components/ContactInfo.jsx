@@ -32,14 +32,9 @@ const ContactInfo = () => {
           <span>LinkedIn</span>
         </a>
 
-        <a
-          className="contact-card"
-          href="/Thamizharasi_Resume.pdf"
-          download
-        >
-          <FaFileAlt />
-          <span>Download Resume</span>
-        </a>
+        <a href="/public/Thamizharasi_Resume.pdf" download className="resume-btn">
+  Download Resume 📄
+</a>
       </div>
     </section>
   );
